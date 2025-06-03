@@ -1,1 +1,1 @@
-modernfix.jar=https://github.com/E1ar/Modlist/raw/main/modernfix-neoforge-5.23.1-bmc1.21.1.jar
+modernfix.jar=https://github.com/E1ar/Modlist/raw/main/modernfix.jar
